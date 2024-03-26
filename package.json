@@ -1,7 +1,7 @@
 {
-  "name": "client",
+  "name": "@xp/cosmos-client",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "imsk17",
   "license": "MIT",
   "devDependencies": {
